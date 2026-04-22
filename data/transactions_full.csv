@@ -1,0 +1,35 @@
+fecha,cuenta,tipo,monto
+2026-01-01,Ventas,ingreso,900000
+2026-01-02,Compras,gasto,320000
+2026-01-03,Gastos de Alimentación,gasto,45000
+2026-01-04,Agua,gasto,18000
+2026-01-05,Luz,gasto,30000
+2026-01-06,Telefono,gasto,15000
+2026-01-07,Internet,gasto,28000
+2026-01-08,Combustible,gasto,60000
+2026-01-09,Comisiones,gasto,40000
+2026-01-10,Tarjetas de credito,gasto,90000
+
+2026-01-11,Ventas,ingreso,850000
+2026-01-12,Compras,gasto,300000
+2026-01-13,Gastos personales,gasto,70000
+2026-01-14,Combustible,gasto,55000
+2026-01-15,Agua,gasto,17000
+2026-01-16,Luz,gasto,32000
+2026-01-17,Telefono,gasto,14000
+2026-01-18,Internet,gasto,27000
+2026-01-19,Comisiones,gasto,42000
+
+2026-01-20,Ventas,ingreso,1000000
+2026-01-21,Compras,gasto,380000
+2026-01-22,Gastos de Alimentación,gasto,50000
+2026-01-23,Combustible,gasto,65000
+2026-01-24,Gastos personales,gasto,80000
+2026-01-25,Agua,gasto,19000
+2026-01-26,Luz,gasto,35000
+2026-01-27,Telefono,gasto,15000
+2026-01-28,Internet,gasto,30000
+2026-01-29,Comisiones,gasto,45000
+
+2026-01-30,Ventas,ingreso,950000
+2026-01-31,Compras,gasto,350000
